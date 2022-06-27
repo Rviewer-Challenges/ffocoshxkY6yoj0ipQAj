@@ -15,6 +15,7 @@ struct AddTweetButton: View {
                 Spacer()
                 Image(systemName: "plus")
                     .font(.title)
+                    .foregroundColor(.white)
                     .frame(width: 54, height: 54)
                     .background(Color.twitterColor)
                     .clipShape(Circle())
