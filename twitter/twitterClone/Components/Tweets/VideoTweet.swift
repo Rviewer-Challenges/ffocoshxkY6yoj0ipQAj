@@ -30,6 +30,9 @@ struct VideoTweet: View {
                 .overlay {
                     if (!model.isPlaying) {
                         Image("play")
+                            .onTapGesture {
+                                self.model.isPlaying.toggle()
+                            }
                     }
                 }
         }
