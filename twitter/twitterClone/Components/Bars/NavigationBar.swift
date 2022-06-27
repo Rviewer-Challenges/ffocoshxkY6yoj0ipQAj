@@ -42,7 +42,7 @@ struct NavigationBar: View {
                 }
                 
             }
-            .padding(.horizontal)
+            .padding(.horizontal, 24)
             .opacity(hideBar ? 0 : 1)
         }
         .frame(height: heightNavBar)
