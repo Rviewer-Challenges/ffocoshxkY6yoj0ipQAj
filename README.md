@@ -15,6 +15,10 @@
 
 He intentado hacer todas las funcionalidades de los requisitos. Además añadí el menu lateral, pues me parecía interesante aprender como se desplaza y muestra la vista. En cuanto a los botones, son únicamente visuales, no funcionan. Lo único que no he conseguido es mostrar el gif :(.
 
+La app esta hecha con SwiftUI. 
+
+Intrucciones: Descargar el repo, y abrir el archivo twitterClone.xcodeproj
+
 PD: Quiero darle las gracias a Andrea, por ayudarme a subir el proyecto, tenía problemas para subirlo y con los comandos de git, y me ha salvado!!
 
 I have tried to do the functionalities of the requirements. I also added the menu, because I found it interesting how the view is scrolled and displayed. As for the buttons, they do not work. The only thing I have not been able to do is to show the gif :(.
